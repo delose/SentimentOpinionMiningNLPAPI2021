@@ -1,0 +1,2 @@
+# SentimentOpinionMiningNLPAPI2021
+Angular Application
