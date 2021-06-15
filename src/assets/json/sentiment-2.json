@@ -1,0 +1,1516 @@
+{
+    "success": true,
+    "data": {
+        "content": "They covered the precious mahogany coffin with a brown amalgam of rocks, decomposed organisms, and weeds. It was my turn to take the shovel, but I felt too ashamed to dutifully send her off when I had not properly said goodbye. I refused to throw dirt on her. I refused to let go of my grandmother, to accept a death I had not seen coming, to believe that an illness could not only interrupt, but steal a beloved life. When my parents finally revealed to me that my grandmother had been battling liver cancer, I was twelve and I was angry--mostly with myself. They had wanted to protect me--only six years old at the time--from the complex and morose concept of death. However, when the end inevitably arrived, I wasn’t trying to comprehend what dying was; I was trying to understand how I had been able to abandon my sick grandmother in favor of playing with friends and watching TV. Hurt that my parents had deceived me and resentful of my own oblivion, I committed myself to preventing such blindness from resurfacing. I became desperately devoted to my education because I saw knowledge as the key to freeing myself from the chains of ignorance. While learning about cancer in school I promised myself that I would memorize every fact and absorb every detail in textbooks and online medical journals. And as I began to consider my future, I realized that what I learned in school would allow me to silence that which had silenced my grandmother. However, I was focused not with learning itself, but with good grades and high test scores. I started to believe that academic perfection would be the only way to redeem myself in her eyes--to make up for what I had not done as a granddaughter. However, a simple walk on a hiking trail behind my house made me open my own eyes to the truth. Over the years, everything--even honoring my grandmother--had become second to school and grades. As my shoes humbly tapped against the Earth, the towering trees blackened by the forest fire a few years ago, the faintly colorful pebbles embedded in the sidewalk, and the wispy white clouds hanging in the sky reminded me of my small though nonetheless significant part in a larger whole that is humankind and this Earth. Before I could resolve my guilt, I had to broaden my perspective of the world as well as my responsibilities to my fellow humans. Volunteering at a cancer treatment center has helped me discover my path. When I see patients trapped in not only the hospital but also a moment in time by their diseases, I talk to them. For six hours a day, three times a week, Ivana is surrounded by IV stands, empty walls, and busy nurses that quietly yet constantly remind her of her breast cancer. Her face is pale and tired, yet kind--not unlike my grandmother’s. I need only to smile and say hello to see her brighten up as life returns to her face. Upon our first meeting, she opened up about her two sons, her hometown, and her knitting group--no mention of her disease. Without even standing up, the three of us—Ivana, me, and my grandmother--had taken a walk together. Cancer, as powerful and invincible as it may seem, is a mere fraction of a person’s life. It’s easy to forget when one’s mind and body are so weak and vulnerable. I want to be there as an oncologist to remind them to take a walk once in a while, to remember that there’s so much more to life than a disease. While I physically treat their cancer, I want to lend patients emotional support and mental strength to escape the interruption and continue living. Through my work, I can accept the shovel without burying my grandmother’s memory.",
+        "language": "en",
+        "version": "sensei: 3.4.1; disambiguator: 15.0-QNTX-2016",
+        "knowledge": [
+            {
+                "syncon": 1453,
+                "label": "action.breaking"
+            },
+            {
+                "syncon": 2557,
+                "label": "action.professional_activity",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q179661"
+                    }
+                ]
+            },
+            {
+                "syncon": 4692,
+                "label": "action.activity"
+            },
+            {
+                "syncon": 4754,
+                "label": "action"
+            },
+            {
+                "syncon": 13866,
+                "label": "impediment"
+            },
+            {
+                "syncon": 14196,
+                "label": "artifact.simple_article",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q184418"
+                    }
+                ]
+            },
+            {
+                "syncon": 19541,
+                "label": "artifact.instrument",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q7220961"
+                    }
+                ]
+            },
+            {
+                "syncon": 21170,
+                "label": "place.route",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q17087190"
+                    }
+                ]
+            },
+            {
+                "syncon": 21791,
+                "label": "state.quality"
+            },
+            {
+                "syncon": 22858,
+                "label": "quality.characteristic"
+            },
+            {
+                "syncon": 23312,
+                "label": "state.physiological_state"
+            },
+            {
+                "syncon": 25831,
+                "label": "illness.disease"
+            },
+            {
+                "syncon": 26079,
+                "label": "quantity.measure"
+            },
+            {
+                "syncon": 26127,
+                "label": "process.psychological_process"
+            },
+            {
+                "syncon": 26347,
+                "label": "knowledge.form_of_thought"
+            },
+            {
+                "syncon": 26374,
+                "label": "communication.information"
+            },
+            {
+                "syncon": 26440,
+                "label": "knowledge.form_of_thought"
+            },
+            {
+                "syncon": 26449,
+                "label": "knowledge.form_of_thought",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q3962655"
+                    }
+                ]
+            },
+            {
+                "syncon": 26550,
+                "label": "component.object_part"
+            },
+            {
+                "syncon": 26553,
+                "label": "event.end"
+            },
+            {
+                "syncon": 26972,
+                "label": "state.condition"
+            },
+            {
+                "syncon": 29160,
+                "label": "communication.oral_communication"
+            },
+            {
+                "syncon": 29174,
+                "label": "communication.oral_communication",
+                "properties": [
+                    {
+                        "type": "DBpediaId",
+                        "value": "dbpedia.org/page/Howdy"
+                    },
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q1631958"
+                    }
+                ]
+            },
+            {
+                "syncon": 29723,
+                "label": "communication.message"
+            },
+            {
+                "syncon": 32131,
+                "label": "event.happening",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q169950"
+                    }
+                ]
+            },
+            {
+                "syncon": 33128,
+                "label": "state.mental_state",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q628939"
+                    }
+                ]
+            },
+            {
+                "syncon": 39441,
+                "label": "atmospheric_phenomenon",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q8074"
+                    }
+                ]
+            },
+            {
+                "syncon": 42817,
+                "label": "person"
+            },
+            {
+                "syncon": 42957,
+                "label": "person"
+            },
+            {
+                "syncon": 43471,
+                "label": "person.person_-_physical_characteristics"
+            },
+            {
+                "syncon": 43914,
+                "label": "person.worker",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q186360"
+                    }
+                ]
+            },
+            {
+                "syncon": 44079,
+                "label": "person.patient"
+            },
+            {
+                "syncon": 46174,
+                "label": "event.death",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q4"
+                    }
+                ]
+            },
+            {
+                "syncon": 53611,
+                "label": "plant",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q101879"
+                    }
+                ]
+            },
+            {
+                "syncon": 57861,
+                "label": "state.illness",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q2057971"
+                    }
+                ]
+            },
+            {
+                "syncon": 57878,
+                "label": "illness.disease",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q12136"
+                    }
+                ]
+            },
+            {
+                "syncon": 58451,
+                "label": "illness.disease",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q12078"
+                    }
+                ]
+            },
+            {
+                "syncon": 58470,
+                "label": "illness.disease",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q128581"
+                    }
+                ]
+            },
+            {
+                "syncon": 59349,
+                "label": "quality.positive_feature",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q378701"
+                    }
+                ]
+            },
+            {
+                "syncon": 59715,
+                "label": "illness.disease",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q10874"
+                    }
+                ]
+            },
+            {
+                "syncon": 62158,
+                "label": "event.death"
+            },
+            {
+                "syncon": 62641,
+                "label": "time.temporal_unit"
+            },
+            {
+                "syncon": 62895,
+                "label": "action.game"
+            },
+            {
+                "syncon": 62955,
+                "label": "behaviour.physical_behaviour"
+            },
+            {
+                "syncon": 63120,
+                "label": "action"
+            },
+            {
+                "syncon": 63175,
+                "label": "activity.professional_activity"
+            },
+            {
+                "syncon": 64038,
+                "label": "behaviour.mental_process"
+            },
+            {
+                "syncon": 64199,
+                "label": "behaviour"
+            },
+            {
+                "syncon": 65047,
+                "label": "behaviour.mental_process"
+            },
+            {
+                "syncon": 65077,
+                "label": "knowledge"
+            },
+            {
+                "syncon": 65088,
+                "label": "social_interaction.education"
+            },
+            {
+                "syncon": 65119,
+                "label": "action.psychological_action"
+            },
+            {
+                "syncon": 65132,
+                "label": "action.psychological_action"
+            },
+            {
+                "syncon": 65195,
+                "label": "knowledge.reasoning"
+            },
+            {
+                "syncon": 65368,
+                "label": "knowledge.opinion"
+            },
+            {
+                "syncon": 65494,
+                "label": "knowledge"
+            },
+            {
+                "syncon": 65759,
+                "label": "communication"
+            },
+            {
+                "syncon": 65797,
+                "label": "action"
+            },
+            {
+                "syncon": 65938,
+                "label": "behaviour"
+            },
+            {
+                "syncon": 66062,
+                "label": "action"
+            },
+            {
+                "syncon": 66964,
+                "label": "activity"
+            },
+            {
+                "syncon": 68939,
+                "label": "action"
+            },
+            {
+                "syncon": 70379,
+                "label": "movement.place_change"
+            },
+            {
+                "syncon": 71126,
+                "label": "possession.taking"
+            },
+            {
+                "syncon": 71518,
+                "label": "possession.transference"
+            },
+            {
+                "syncon": 71839,
+                "label": "behaviour"
+            },
+            {
+                "syncon": 71848,
+                "label": "activity"
+            },
+            {
+                "syncon": 72291,
+                "label": "behaviour.social_behaviour"
+            },
+            {
+                "syncon": 72528,
+                "label": "state.existence"
+            },
+            {
+                "syncon": 72985,
+                "label": "action"
+            },
+            {
+                "syncon": 73282,
+                "label": "person",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q215627"
+                    }
+                ]
+            },
+            {
+                "syncon": 73443,
+                "label": "other",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q16887380"
+                    }
+                ]
+            },
+            {
+                "syncon": 73451,
+                "label": "time"
+            },
+            {
+                "syncon": 73485,
+                "label": "natural_object.organism",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q7239"
+                    }
+                ]
+            },
+            {
+                "syncon": 76042,
+                "label": "other"
+            },
+            {
+                "syncon": 76054,
+                "label": "other"
+            },
+            {
+                "syncon": 76266,
+                "label": "other"
+            },
+            {
+                "syncon": 78073,
+                "label": "other"
+            },
+            {
+                "syncon": 79264,
+                "label": "other"
+            },
+            {
+                "syncon": 80432,
+                "label": "other"
+            },
+            {
+                "syncon": 80870,
+                "label": "other"
+            },
+            {
+                "syncon": 81184,
+                "label": "other"
+            },
+            {
+                "syncon": 82959,
+                "label": "other"
+            },
+            {
+                "syncon": 83508,
+                "label": "other"
+            },
+            {
+                "syncon": 84298,
+                "label": "other"
+            },
+            {
+                "syncon": 84441,
+                "label": "other"
+            },
+            {
+                "syncon": 84933,
+                "label": "other"
+            },
+            {
+                "syncon": 86800,
+                "label": "other"
+            },
+            {
+                "syncon": 88078,
+                "label": "other"
+            },
+            {
+                "syncon": 88709,
+                "label": "other"
+            },
+            {
+                "syncon": 92328,
+                "label": "knowledge.form_of_thought",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q20978643"
+                    }
+                ]
+            },
+            {
+                "syncon": 101952,
+                "label": "action"
+            },
+            {
+                "syncon": 104245,
+                "label": "other"
+            },
+            {
+                "syncon": 112511,
+                "label": "component.object_part"
+            },
+            {
+                "syncon": 115005,
+                "label": "behaviour.mental_process"
+            },
+            {
+                "syncon": 117758,
+                "label": "behaviour.social_behaviour"
+            },
+            {
+                "syncon": 117760,
+                "label": "communication.linguistic_communication"
+            },
+            {
+                "syncon": 123004,
+                "label": "knowledge.form_of_thought"
+            },
+            {
+                "syncon": 123724,
+                "label": "object.substance",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q555882"
+                    }
+                ]
+            },
+            {
+                "syncon": 125408,
+                "label": "communication.telecommunication"
+            },
+            {
+                "syncon": 125550,
+                "label": "mineral.rock",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q14673"
+                    }
+                ]
+            },
+            {
+                "syncon": 127395,
+                "label": "quality.human_feature",
+                "properties": [
+                    {
+                        "type": "WikiDataId",
+                        "value": "Q1274115"
+                    }
+                ]
+            },
+            {
+                "syncon": 137508,
+                "label": "communication.linguistic_communication"
+            },
+            {
+                "syncon": 140402,
+                "label": "action"
+            },
+            {
+                "syncon": 158423,
+                "label": "manner"
+            },
+            {
+                "syncon": 158483,
+                "label": "manner"
+            },
+            {
+                "syncon": 158878,
+                "label": "manner"
+            },
+            {
+                "syncon": 159222,
+                "label": "manner"
+            },
+            {
+                "syncon": 159490,
+                "label": "other"
+            },
+            {
+                "syncon": 160235,
+                "label": "manner"
+            },
+            {
+                "syncon": 160458,
+                "label": "other"
+            },
+            {
+                "syncon": 161010,
+                "label": "manner"
+            },
+            {
+                "syncon": 165984,
+                "label": "activity"
+            },
+            {
+                "syncon": 194831,
+                "label": "communication.linguistic_communication"
+            },
+            {
+                "syncon": 196691,
+                "label": "action"
+            },
+            {
+                "syncon": 217217,
+                "label": "human_group"
+            },
+            {
+                "syncon": 288031,
+                "label": "other"
+            }
+        ],
+        "sentiment": {
+            "overall": -4.0,
+            "negativity": -7.09,
+            "positivity": 3.09,
+            "items": [
+                {
+                    "lemma": "",
+                    "syncon": -1,
+                    "sentiment": -0.3,
+                    "items": [
+                        {
+                            "lemma": "allow",
+                            "syncon": 117760,
+                            "sentiment": 0.3
+                        },
+                        {
+                            "lemma": "angry",
+                            "syncon": 76042,
+                            "sentiment": -3.0
+                        },
+                        {
+                            "lemma": "believe",
+                            "syncon": 65368,
+                            "sentiment": 3.5
+                        },
+                        {
+                            "lemma": "believe",
+                            "syncon": 65494,
+                            "sentiment": 3.5
+                        },
+                        {
+                            "lemma": "blindness",
+                            "syncon": 59715,
+                            "sentiment": -3.5
+                        },
+                        {
+                            "lemma": "breast cancer",
+                            "syncon": 58470,
+                            "sentiment": -3.5
+                        },
+                        {
+                            "lemma": "but",
+                            "syncon": 160458,
+                            "sentiment": -1.0
+                        },
+                        {
+                            "lemma": "but",
+                            "syncon": 160458,
+                            "sentiment": -1.0
+                        },
+                        {
+                            "lemma": "but",
+                            "syncon": 160458,
+                            "sentiment": -1.0
+                        },
+                        {
+                            "lemma": "but",
+                            "syncon": 160458,
+                            "sentiment": -1.0
+                        },
+                        {
+                            "lemma": "cancer;treatment",
+                            "syncon": 2557,
+                            "sentiment": -9.5
+                        },
+                        {
+                            "lemma": "cancer",
+                            "syncon": 58451,
+                            "sentiment": -6.0
+                        },
+                        {
+                            "lemma": "cancer",
+                            "syncon": 58451,
+                            "sentiment": -6.0
+                        },
+                        {
+                            "lemma": "commit",
+                            "syncon": 66062,
+                            "sentiment": 3.5
+                        },
+                        {
+                            "lemma": "death",
+                            "syncon": 46174,
+                            "sentiment": -3.5
+                        },
+                        {
+                            "lemma": "death",
+                            "syncon": 62158,
+                            "sentiment": -6.0
+                        },
+                        {
+                            "lemma": "desperately;devoted",
+                            "syncon": 78073,
+                            "sentiment": -1.7
+                        },
+                        {
+                            "lemma": "dirt",
+                            "syncon": 123724,
+                            "sentiment": -3.5
+                        },
+                        {
+                            "lemma": "disease",
+                            "syncon": 57878,
+                            "sentiment": -6.0
+                        },
+                        {
+                            "lemma": "easy",
+                            "syncon": 79264,
+                            "sentiment": 7.0
+                        },
+                        {
+                            "lemma": "focus;not",
+                            "syncon": 159490,
+                            "sentiment": -14.0
+                        },
+                        {
+                            "lemma": "forest fire",
+                            "syncon": 32131,
+                            "sentiment": -6.0
+                        },
+                        {
+                            "lemma": "forget",
+                            "syncon": 115005,
+                            "sentiment": -3.5
+                        },
+                        {
+                            "lemma": "free",
+                            "syncon": 71839,
+                            "sentiment": 3.5
+                        },
+                        {
+                            "lemma": "friend",
+                            "syncon": 42817,
+                            "sentiment": 6.0
+                        },
+                        {
+                            "lemma": "guilt",
+                            "syncon": 33128,
+                            "sentiment": -3.5
+                        },
+                        {
+                            "lemma": "hello",
+                            "syncon": 29174,
+                            "sentiment": 3.5
+                        },
+                        {
+                            "lemma": "help",
+                            "syncon": 117758,
+                            "sentiment": 6.0
+                        },
+                        {
+                            "lemma": "hurt",
+                            "syncon": 63120,
+                            "sentiment": -3.5
+                        },
+                        {
+                            "lemma": "illness",
+                            "syncon": 57861,
+                            "sentiment": -6.0
+                        },
+                        {
+                            "lemma": "interruption",
+                            "syncon": 1453,
+                            "sentiment": -3.5
+                        },
+                        {
+                            "lemma": "learn",
+                            "syncon": 65077,
+                            "sentiment": 14.0
+                        },
+                        {
+                            "lemma": "learn",
+                            "syncon": 65077,
+                            "sentiment": 3.5
+                        },
+                        {
+                            "lemma": "learning",
+                            "syncon": 26127,
+                            "sentiment": 6.0
+                        },
+                        {
+                            "lemma": "let go",
+                            "syncon": 72985,
+                            "sentiment": 3.5
+                        },
+                        {
+                            "lemma": "live",
+                            "syncon": 72528,
+                            "sentiment": 3.5
+                        },
+                        {
+                            "lemma": "make up for",
+                            "syncon": 140402,
+                            "sentiment": 6.0
+                        },
+                        {
+                            "lemma": "oblivion",
+                            "syncon": 25831,
+                            "sentiment": -3.5
+                        },
+                        {
+                            "lemma": "patient",
+                            "syncon": 44079,
+                            "sentiment": -3.5
+                        },
+                        {
+                            "lemma": "patient",
+                            "syncon": 44079,
+                            "sentiment": -3.5
+                        },
+                        {
+                            "lemma": "play",
+                            "syncon": 62895,
+                            "sentiment": 3.5
+                        },
+                        {
+                            "lemma": "powerful;invincible[*]",
+                            "syncon": 84441,
+                            "sentiment": 12.0
+                        },
+                        {
+                            "lemma": "precious;mahogany;coffin",
+                            "syncon": 14196,
+                            "sentiment": 7.5
+                        },
+                        {
+                            "lemma": "protect",
+                            "syncon": 66964,
+                            "sentiment": 6.0
+                        },
+                        {
+                            "lemma": "quietly",
+                            "syncon": 160235,
+                            "sentiment": 3.0
+                        },
+                        {
+                            "lemma": "realize",
+                            "syncon": 65047,
+                            "sentiment": 3.5
+                        },
+                        {
+                            "lemma": "realize",
+                            "syncon": 65047,
+                            "sentiment": 3.5
+                        },
+                        {
+                            "lemma": "redeem",
+                            "syncon": 196691,
+                            "sentiment": 3.5
+                        },
+                        {
+                            "lemma": "resentful",
+                            "syncon": 76054,
+                            "sentiment": -3.0
+                        },
+                        {
+                            "lemma": "smile",
+                            "syncon": 62955,
+                            "sentiment": 8.5
+                        },
+                        {
+                            "lemma": "strength",
+                            "syncon": 23312,
+                            "sentiment": 6.0
+                        },
+                        {
+                            "lemma": "support",
+                            "syncon": 4692,
+                            "sentiment": 3.5
+                        },
+                        {
+                            "lemma": "though",
+                            "syncon": 161010,
+                            "sentiment": -1.0
+                        },
+                        {
+                            "lemma": "together",
+                            "syncon": 158423,
+                            "sentiment": 2.0
+                        },
+                        {
+                            "lemma": "too;ashamed",
+                            "syncon": 76266,
+                            "sentiment": -46.4
+                        },
+                        {
+                            "lemma": "volunteer",
+                            "syncon": 71848,
+                            "sentiment": 3.5
+                        },
+                        {
+                            "lemma": "weed",
+                            "syncon": 53611,
+                            "sentiment": -3.5
+                        }
+                    ]
+                },
+                {
+                    "lemma": "Ivana",
+                    "syncon": -1,
+                    "sentiment": 7.0,
+                    "items": [
+                        {
+                            "lemma": "brighten up",
+                            "syncon": 64038,
+                            "sentiment": 3.5
+                        },
+                        {
+                            "lemma": "realize",
+                            "syncon": 65047,
+                            "sentiment": 3.5
+                        }
+                    ]
+                },
+                {
+                    "lemma": "body",
+                    "syncon": 112511,
+                    "sentiment": -8.0,
+                    "items": [
+                        {
+                            "lemma": "weak;vulnerable",
+                            "syncon": 84933,
+                            "sentiment": -8.0
+                        }
+                    ]
+                },
+                {
+                    "lemma": "cancer",
+                    "syncon": 58451,
+                    "sentiment": -0.5,
+                    "items": [
+                        {
+                            "lemma": "fraction",
+                            "syncon": 26550,
+                            "sentiment": 3.0,
+                            "items": [
+                                {
+                                    "lemma": "mere",
+                                    "syncon": 84298,
+                                    "sentiment": 3.0
+                                }
+                            ]
+                        },
+                        {
+                            "lemma": "treat",
+                            "syncon": 63175,
+                            "sentiment": -3.5
+                        }
+                    ]
+                },
+                {
+                    "lemma": "chain",
+                    "syncon": 13866,
+                    "sentiment": -8.5,
+                    "items": [
+                        {
+                            "lemma": "ignorance",
+                            "syncon": 26972,
+                            "sentiment": -8.5
+                        }
+                    ]
+                },
+                {
+                    "lemma": "cloud",
+                    "syncon": 39441,
+                    "sentiment": 0.5,
+                    "items": [
+                        {
+                            "lemma": "hang in",
+                            "syncon": 64199,
+                            "sentiment": 3.5
+                        },
+                        {
+                            "lemma": "wispy",
+                            "syncon": 80432,
+                            "sentiment": -3.0
+                        }
+                    ]
+                },
+                {
+                    "lemma": "concept",
+                    "syncon": 26440,
+                    "sentiment": -6.0,
+                    "items": [
+                        {
+                            "lemma": "death",
+                            "syncon": 62158,
+                            "sentiment": -6.0
+                        }
+                    ]
+                },
+                {
+                    "lemma": "death",
+                    "syncon": 62158,
+                    "sentiment": -6.0,
+                    "items": [
+                        {
+                            "lemma": "concept",
+                            "syncon": 26440,
+                            "sentiment": -6.0,
+                            "items": [
+                                {
+                                    "lemma": "complex;morose",
+                                    "syncon": 86800,
+                                    "sentiment": -6.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "lemma": "detail",
+                    "syncon": 26374,
+                    "sentiment": 3.5,
+                    "items": [
+                        {
+                            "lemma": "absorb",
+                            "syncon": 65088,
+                            "sentiment": 3.5
+                        }
+                    ]
+                },
+                {
+                    "lemma": "dirt",
+                    "syncon": 123724,
+                    "sentiment": -6.0,
+                    "items": [
+                        {
+                            "lemma": "refuse",
+                            "syncon": 65759,
+                            "sentiment": -6.0
+                        }
+                    ]
+                },
+                {
+                    "lemma": "end",
+                    "syncon": 26553,
+                    "sentiment": -2.59,
+                    "items": [
+                        {
+                            "lemma": "arrive",
+                            "syncon": 70379,
+                            "sentiment": -2.59,
+                            "items": [
+                                {
+                                    "lemma": "inevitably",
+                                    "syncon": 159222,
+                                    "sentiment": -2.59
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "lemma": "face",
+                    "syncon": 21791,
+                    "sentiment": -5.0,
+                    "items": [
+                        {
+                            "lemma": "tired",
+                            "syncon": 88078,
+                            "sentiment": -5.0
+                        }
+                    ]
+                },
+                {
+                    "lemma": "goodbye",
+                    "syncon": 29160,
+                    "sentiment": -2.0,
+                    "items": [
+                        {
+                            "lemma": "say",
+                            "syncon": 137508,
+                            "sentiment": -2.0,
+                            "items": [
+                                {
+                                    "lemma": "not;properly",
+                                    "syncon": 159490,
+                                    "sentiment": -2.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "lemma": "grade",
+                    "syncon": 26079,
+                    "sentiment": 12.0,
+                    "items": [
+                        {
+                            "lemma": "good",
+                            "syncon": 81184,
+                            "sentiment": 12.0
+                        }
+                    ]
+                },
+                {
+                    "lemma": "grandmother",
+                    "syncon": 42957,
+                    "sentiment": -1.89,
+                    "items": [
+                        {
+                            "lemma": "abandon",
+                            "syncon": 65132,
+                            "sentiment": -6.0
+                        },
+                        {
+                            "lemma": "battling;cancer",
+                            "syncon": 58451,
+                            "sentiment": -9.0
+                        },
+                        {
+                            "lemma": "favor",
+                            "syncon": 4754,
+                            "sentiment": 3.5
+                        },
+                        {
+                            "lemma": "honor",
+                            "syncon": 72291,
+                            "sentiment": 3.5
+                        },
+                        {
+                            "lemma": "memory",
+                            "syncon": 123004,
+                            "sentiment": 3.5,
+                            "items": [
+                                {
+                                    "lemma": "without;bury",
+                                    "syncon": 288031,
+                                    "sentiment": 3.5
+                                }
+                            ]
+                        },
+                        {
+                            "lemma": "sick",
+                            "syncon": 88709,
+                            "sentiment": -5.0
+                        }
+                    ]
+                },
+                {
+                    "lemma": "group",
+                    "syncon": 73443,
+                    "sentiment": 0.0
+                },
+                {
+                    "lemma": "mention",
+                    "syncon": 29723,
+                    "sentiment": -6.0,
+                    "items": [
+                        {
+                            "lemma": "disease",
+                            "syncon": 57878,
+                            "sentiment": -6.0
+                        }
+                    ]
+                },
+                {
+                    "lemma": "guilt",
+                    "syncon": 33128,
+                    "sentiment": 0.3,
+                    "items": [
+                        {
+                            "lemma": "resolve",
+                            "syncon": 65195,
+                            "sentiment": 0.3
+                        }
+                    ]
+                },
+                {
+                    "lemma": "human",
+                    "syncon": 73282,
+                    "sentiment": -6.0,
+                    "items": [
+                        {
+                            "lemma": "fraction",
+                            "syncon": 26550,
+                            "sentiment": -6.0,
+                            "items": [
+                                {
+                                    "lemma": "cancer",
+                                    "syncon": 58451,
+                                    "sentiment": -6.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "lemma": "ignorance",
+                    "syncon": 26972,
+                    "sentiment": -3.5,
+                    "items": [
+                        {
+                            "lemma": "chain",
+                            "syncon": 13866,
+                            "sentiment": -3.5
+                        }
+                    ]
+                },
+                {
+                    "lemma": "illness",
+                    "syncon": 57861,
+                    "sentiment": -24.6,
+                    "items": [
+                        {
+                            "lemma": "interrupt",
+                            "syncon": 101952,
+                            "sentiment": -0.6
+                        },
+                        {
+                            "lemma": "life",
+                            "syncon": 43471,
+                            "sentiment": -24.0,
+                            "items": [
+                                {
+                                    "lemma": "steal",
+                                    "syncon": 71518,
+                                    "sentiment": -24.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "lemma": "interruption",
+                    "syncon": 1453,
+                    "sentiment": 3.5,
+                    "items": [
+                        {
+                            "lemma": "escape",
+                            "syncon": 65797,
+                            "sentiment": 3.5
+                        }
+                    ]
+                },
+                {
+                    "lemma": "let go",
+                    "syncon": 72985,
+                    "sentiment": -6.0,
+                    "items": [
+                        {
+                            "lemma": "refuse",
+                            "syncon": 65759,
+                            "sentiment": -6.0
+                        }
+                    ]
+                },
+                {
+                    "lemma": "life",
+                    "syncon": 43471,
+                    "sentiment": 20.0,
+                    "items": [
+                        {
+                            "lemma": "beloved",
+                            "syncon": 82959,
+                            "sentiment": 20.0
+                        }
+                    ]
+                },
+                {
+                    "lemma": "mind",
+                    "syncon": 26449,
+                    "sentiment": -8.0,
+                    "items": [
+                        {
+                            "lemma": "weak;vulnerable",
+                            "syncon": 84933,
+                            "sentiment": -8.0
+                        }
+                    ]
+                },
+                {
+                    "lemma": "moment",
+                    "syncon": 62641,
+                    "sentiment": -24.0,
+                    "items": [
+                        {
+                            "lemma": "time",
+                            "syncon": 73451,
+                            "sentiment": -24.0,
+                            "items": [
+                                {
+                                    "lemma": "disease",
+                                    "syncon": 57878,
+                                    "sentiment": -24.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "lemma": "nurse",
+                    "syncon": 43914,
+                    "sentiment": 2.0,
+                    "items": [
+                        {
+                            "lemma": "Ivana",
+                            "syncon": -1,
+                            "sentiment": 2.0,
+                            "items": [
+                                {
+                                    "lemma": "remember",
+                                    "syncon": 65119,
+                                    "sentiment": 2.0,
+                                    "items": [
+                                        {
+                                            "lemma": "constantly",
+                                            "syncon": 158483,
+                                            "sentiment": 2.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "lemma": "organism",
+                    "syncon": 73485,
+                    "sentiment": -3.0,
+                    "items": [
+                        {
+                            "lemma": "decomposed",
+                            "syncon": 80870,
+                            "sentiment": -3.0
+                        }
+                    ]
+                },
+                {
+                    "lemma": "parent",
+                    "syncon": 217217,
+                    "sentiment": -8.5,
+                    "items": [
+                        {
+                            "lemma": "deceive",
+                            "syncon": 65938,
+                            "sentiment": -8.5
+                        }
+                    ]
+                },
+                {
+                    "lemma": "path",
+                    "syncon": 125408,
+                    "sentiment": 3.5,
+                    "items": [
+                        {
+                            "lemma": "learn",
+                            "syncon": 65077,
+                            "sentiment": 3.5
+                        }
+                    ]
+                },
+                {
+                    "lemma": "patient",
+                    "syncon": 44079,
+                    "sentiment": -3.5,
+                    "items": [
+                        {
+                            "lemma": "trap",
+                            "syncon": 68939,
+                            "sentiment": -3.5
+                        }
+                    ]
+                },
+                {
+                    "lemma": "pebble",
+                    "syncon": 125550,
+                    "sentiment": 7.0,
+                    "items": [
+                        {
+                            "lemma": "faintly;colorful[*]",
+                            "syncon": 83508,
+                            "sentiment": 7.0
+                        }
+                    ]
+                },
+                {
+                    "lemma": "perspective",
+                    "syncon": 92328,
+                    "sentiment": 3.0,
+                    "items": [
+                        {
+                            "lemma": "world",
+                            "syncon": 26347,
+                            "sentiment": 3.0,
+                            "items": [
+                                {
+                                    "lemma": "responsibility",
+                                    "syncon": 127395,
+                                    "sentiment": 3.0,
+                                    "items": [
+                                        {
+                                            "lemma": "human",
+                                            "syncon": 73282,
+                                            "sentiment": 3.0,
+                                            "items": [
+                                                {
+                                                    "lemma": "fellow",
+                                                    "syncon": 104245,
+                                                    "sentiment": 3.0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "lemma": "send off",
+                    "syncon": 194831,
+                    "sentiment": 8.0,
+                    "items": [
+                        {
+                            "lemma": "dutifully",
+                            "syncon": 158878,
+                            "sentiment": 8.0
+                        }
+                    ]
+                },
+                {
+                    "lemma": "shovel",
+                    "syncon": 19541,
+                    "sentiment": 3.5,
+                    "items": [
+                        {
+                            "lemma": "accept",
+                            "syncon": 71126,
+                            "sentiment": 3.5
+                        }
+                    ]
+                },
+                {
+                    "lemma": "strength",
+                    "syncon": 23312,
+                    "sentiment": 8.5,
+                    "items": [
+                        {
+                            "lemma": "lend",
+                            "syncon": 165984,
+                            "sentiment": 8.5
+                        }
+                    ]
+                },
+                {
+                    "lemma": "support",
+                    "syncon": 4692,
+                    "sentiment": 8.5,
+                    "items": [
+                        {
+                            "lemma": "lend",
+                            "syncon": 165984,
+                            "sentiment": 8.5
+                        }
+                    ]
+                },
+                {
+                    "lemma": "walk",
+                    "syncon": 21170,
+                    "sentiment": 12.0,
+                    "items": [
+                        {
+                            "lemma": "mere",
+                            "syncon": 84298,
+                            "sentiment": 12.0
+                        }
+                    ]
+                },
+                {
+                    "lemma": "way",
+                    "syncon": 22858,
+                    "sentiment": 6.0,
+                    "items": [
+                        {
+                            "lemma": "perfection",
+                            "syncon": 59349,
+                            "sentiment": 6.0
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
