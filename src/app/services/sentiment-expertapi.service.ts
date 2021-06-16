@@ -30,6 +30,6 @@ export class SentimentExpertapiService {
 
     mockSentiment() {
         // return this.http.get<any>("assets/json/sentiment-2.json", {headers: new HttpHeaders(),  params: new HttpParams()});
-        return this.http.get<any>("assets/json/sentiment.json", {headers: new HttpHeaders(),  params: new HttpParams()});
+        return this.http.get<any>("assets/json/sentiment-2.json", {headers: new HttpHeaders(),  params: new HttpParams()});
     }
 }
