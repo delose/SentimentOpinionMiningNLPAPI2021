@@ -3,8 +3,9 @@
     <div fxFlex="95%">
         <mat-card>
             <div style="text-align:center;" class="form-group">
-                <h2>Crypto News Sentiments [Demo]</h2>
-                <p>Click and see the sentiment score (based on news articles) for each cryptocurrencies</p>
+                <h2>Crypto News Sentiments [Live]</h2>
+                <p>Click and scroll to see the sentiment score generated real-time, based on news articles for each cryptocurrencies</p>
+                <h3>(You may need to resize your browser or switch to mobile to see it work)</h3>
             </div>
             <!-- <mat-card-content class="mx-2 mt-3 mb-4" fxLayoutAlign="center none">
                 <h4>Token: {{ token }}</h4>
@@ -24,14 +25,42 @@
             </mat-card-content>
         </mat-card>
 
-        <div *ngFor="let article of shownArticles; let i = index">
+        <div
+        infinite-scroll
+        [infiniteScrollDistance]="distance"
+        [infiniteScrollThrottle]="throttle"
+        (scrolled)="onScroll()">
+
+        <mat-card *ngFor="let article of newscatcherSearchArticles">
+            <mat-card-title>
+              <h1>
+                <!-- <a [href]="brewery.website_url">{{ brewery.name }}</a> -->
+              </h1>
+            </mat-card-title>
+            <mat-card-subtitle>
+                <h2 class="" [innerHtml]="article.title"></h2>
+            </mat-card-subtitle>
+            <mat-card-subtitle>
+                <div style="text-align:center;" class="d-flex flex-wrap justify-content-center">
+                    <img *ngIf="article.media !== '' && article.media !== undefined && article.media !== null" class="card-img-top" src="{{article?.media}}" alt="Card image cap" style="width: 18rem;max-width: 100%;">
+                </div>
+            </mat-card-subtitle>
+            <mat-card-content>
+                <div class="container" fxLayoutAlign="left none">
+                    <p [innerHtml]="article.summary"></p>
+                </div>
+            </mat-card-content>
+          </mat-card>
+    </div>
+
+        <!-- <div *ngFor="let article of shownArticles; let i = index">
             <div class="container">
             <div fxFlex="95%">
                 <mat-card>
                     <mat-card-content>
                         <div style="text-align:center;" class="container">
                             <h2 class="" [innerHtml]="article.title"></h2>
-                            <!-- <i class="info-icon material-icons" matTooltip="publisher: {{article.author}}&#13;date published: {{article.published_date}}&#13;language: {{article.language}}&#13;score: {{article._score}}" [matTooltipClass]="'app-tooltip'">info</i> -->
+                            <i class="info-icon material-icons" matTooltip="publisher: {{article.author}}&#13;date published: {{article.published_date}}&#13;language: {{article.language}}&#13;score: {{article._score}}" [matTooltipClass]="'app-tooltip'">info</i>
                         </div>
                         <div style="text-align:center;" class="d-flex flex-wrap justify-content-center">
                             <img *ngIf="article.media !== '' && article.media !== undefined && article.media !== null" class="card-img-top" src="{{article?.media}}" alt="Card image cap" style="width: 18rem;max-width: 100%;">
@@ -44,7 +73,7 @@
                 </mat-card>
             </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </div>
 

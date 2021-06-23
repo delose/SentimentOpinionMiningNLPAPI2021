@@ -9,6 +9,7 @@ import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 import { MaterialModule } from './shared/material/material.module';
 import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
+import { InfiniteScrollModule } from 'ngx-infinite-scroll';
 
 @NgModule({
   declarations: [
@@ -16,6 +17,7 @@ import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
     HomeComponent
   ],
   imports: [
+    InfiniteScrollModule,
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
